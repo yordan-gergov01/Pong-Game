@@ -1,0 +1,14 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "Multiplayer Pong Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yordan",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
